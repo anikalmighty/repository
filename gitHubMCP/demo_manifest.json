@@ -1,0 +1,19 @@
+{
+  "folder": "C:\\Aniket\\AI Course\\repository\\repository\\gitHubMCP",
+  "files": [
+    "demo.py",
+    "demo_manifest.json",
+    "demo_notebook.ipynb",
+    "mcp_demo_guide.md",
+    "README.md",
+    "ui.py"
+  ],
+  "mcp_capabilities": [
+    "Repository read/write",
+    "Branch listing and branch metadata",
+    "Issue and pull request inspection",
+    "Commit and release metadata",
+    "Code search and secret scanning",
+    "File creation and updates"
+  ]
+}
