@@ -1,0 +1,3 @@
+Drowsiness detector notebook run created artifacts in the target folder.
+Face landmarker model: C:\Aniket\AI Course\repository\repository\drowsinessDetection\face_landmarker.task
+Created at: 2026-06-18 17:59:19.544509
